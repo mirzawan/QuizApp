@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:padding">@dimen/text_padding</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="button_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">172dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:backgroundTint">#D85D5D</item>
+    </style>
+</resources>
